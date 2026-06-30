@@ -7,7 +7,7 @@ An analytical **Front-End Developer** with a strong foundational background in *
 - **Data Dashboards:** Integrating SQL and Python workflows to feed live metrics into responsive UI components.
 - **RTL/LTR Layouts:** Optimizing web applications to support seamless dynamic layout switching (English/Arabic).
 
----
+
 
 
 ### 🛠️ Technical Ecosystem
