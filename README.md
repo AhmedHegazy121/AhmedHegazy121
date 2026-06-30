@@ -2,14 +2,13 @@
 
 An analytical **Front-End Developer** with a strong foundational background in **Data Analytics**. I specialize in engineering responsive, user-centric web applications and transforming complex datasets into clean, interactive digital interfaces.
 
----
-
 ### 🚀 Current Focus
-*   **Data-Driven UIs:** Developing interactive dashboard systems that seamlessly bridge backend metrics with modern user experiences.
-*   **Dynamic Localization:** Optimizing frontend architectures to support fluid translation and layout switching (LTR / RTL mechanics).
-*   **State Architecture:** Advanced application management utilizing clean React hooks, Context API, and Redux Toolkit workflows.
+- **Web Ecosystems:** Building modern front-end web interfaces using React.js and modern state management.
+- **Data Dashboards:** Integrating SQL and Python workflows to feed live metrics into responsive UI components.
+- **RTL/LTR Layouts:** Optimizing web applications to support seamless dynamic layout switching (English/Arabic).
 
 ---
+
 
 ### 🛠️ Technical Ecosystem
 
