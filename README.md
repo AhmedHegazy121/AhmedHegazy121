@@ -23,6 +23,6 @@ An analytical **Front-End Developer** with a strong foundational background in *
 ---
 
 ###  Professional Connection
-*   📧 **Email:** [your.email@](mailto:your.email@example.com)
-*   💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/hegazy-ahmed/)
+*   📧 **Email:** [My Email](mailto:ahmed.a.hegazy21@gmail.com)
+*   💼 **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/hegazy-ahmed/)
 *   🌍 **Availability:** Open to remote opportunities, collaborative engineering projects, and relocation.
