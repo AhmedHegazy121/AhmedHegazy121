@@ -14,7 +14,7 @@ An analytical **Front-End Developer** with a strong foundational background in *
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend Core** | React.js, JavaScript (ES6+), HTML5, CSS3, Material UI (MUI) |
+| **Frontend Core** | React.js, JavaScript (ES6+), HTML5, CSS3, Material UI (MUI), GSAP,TailwindCSS  |
 | **State Management** | Redux Toolkit, Context API, useReducer, React Hooks |
 | **Data & Analytics** | SQL, Python, Data Modeling, Tableau, Power BI |
 | **Workflow Tools** | Git, GitHub, VS Code, REST APIs / Axios |
